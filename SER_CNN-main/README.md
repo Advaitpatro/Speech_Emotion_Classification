@@ -1,7 +1,7 @@
 # 🎤 Speech Emotion Recognition (SER) using CNNs
 
 This project focuses on **Speech Emotion Recognition (SER)** — identifying human emotions such as *happy, sad, angry, fearful, neutral*, etc., from raw speech audio using **Convolutional Neural Networks (CNNs)** implemented in **PyTorch**.  
-The system is trained and evaluated on the **RAVDESS dataset** and was developed as part of an **AI Club project**.
+The system is trained and evaluated on the **RAVDESS dataset** .
 
 ---
 
